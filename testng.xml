@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Windose8.1">
+  <test thread-count="5" name="Regression">
+    <classes>
+      <class name="Test.ZerodhaShareByeAndSellTest"/>
+      <class name="Test.ZerodhGraphShowTest"/>
+      <class name="Test.ZerodhaSignUpPageTest"/>
+      <class name="Test.ZerodhPinPageTest"/>
+      <class name="Test.LoginPageTest"/>
+      <class name="Test.ZerodhForgotPasswordTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
