@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Windose8.1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="Test.ZerodhGraphShowTest">
+        <methods>
+          <include name="SearchShare"/>
+          <include name="openchrome"/>
+        </methods>
+      </class> <!-- Test.ZerodhGraphShowTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Windose8.1] -->

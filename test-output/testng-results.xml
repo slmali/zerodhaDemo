@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T16:15:34 IST" name="Windose8.1" finished-at="2022-06-19T16:20:46 IST" duration-ms="312794">
+    <groups>
+    </groups>
+    <test started-at="2022-06-19T16:15:34 IST" name="Regression" finished-at="2022-06-19T16:20:46 IST" duration-ms="312794">
+      <class name="Test.LoginPageTest">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:17:07 IST" name="openchrome" finished-at="2022-06-19T16:17:21 IST" duration-ms="14662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="ClickOnForgotlink()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:17:21 IST" name="ClickOnForgotlink" finished-at="2022-06-19T16:17:21 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnForgotlink -->
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:17:21 IST" name="openchrome" finished-at="2022-06-19T16:17:48 IST" duration-ms="26778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="ClickOnSignUpLink()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:17:48 IST" name="ClickOnSignUpLink" finished-at="2022-06-19T16:17:48 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignUpLink -->
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:17:48 IST" name="openchrome" finished-at="2022-06-19T16:18:04 IST" duration-ms="15958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="loginWithValidCredantial()[pri:0, instance:Test.LoginPageTest@54a7079e]" started-at="2022-06-19T16:18:04 IST" name="loginWithValidCredantial" finished-at="2022-06-19T16:18:05 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredantial -->
+      </class> <!-- Test.LoginPageTest -->
+      <class name="Test.ZerodhPinPageTest$LoginPageTest">
+        <test-method is-config="true" signature="extentReport()[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:15:34 IST" name="extentReport" finished-at="2022-06-19T16:15:34 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport -->
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:18:32 IST" name="openchrome" finished-at="2022-06-19T16:18:58 IST" duration-ms="25890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="loginWithValidCredantial()[pri:1, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:18:58 IST" name="loginWithValidCredantial" finished-at="2022-06-19T16:19:03 IST" duration-ms="5014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredantial -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:19:03 IST" name="closeBrowser" finished-at="2022-06-19T16:19:03 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidCredantial status=SUCCESS method=ZerodhPinPageTest$LoginPageTest.loginWithValidCredantial()[pri:1, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:19:03 IST" name="openchrome" finished-at="2022-06-19T16:20:19 IST" duration-ms="76365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="ByeShareAndSell()[pri:2, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:19 IST" name="ByeShareAndSell" finished-at="2022-06-19T16:20:24 IST" duration-ms="4868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ByeShareAndSell -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:24 IST" name="closeBrowser" finished-at="2022-06-19T16:20:24 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ByeShareAndSell status=SUCCESS method=ZerodhPinPageTest$LoginPageTest.ByeShareAndSell()[pri:2, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:24 IST" name="openchrome" finished-at="2022-06-19T16:20:37 IST" duration-ms="13300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="GraphView()[pri:3, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:37 IST" name="GraphView" finished-at="2022-06-19T16:20:45 IST" duration-ms="7277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphView -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:45 IST" name="closeBrowser" finished-at="2022-06-19T16:20:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GraphView status=SUCCESS method=ZerodhPinPageTest$LoginPageTest.GraphView()[pri:3, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="flushResult()[pri:0, instance:Test.ZerodhPinPageTest$LoginPageTest@201a4587]" started-at="2022-06-19T16:20:45 IST" name="flushResult" finished-at="2022-06-19T16:20:46 IST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushResult -->
+      </class> <!-- Test.ZerodhPinPageTest$LoginPageTest -->
+      <class name="Test.ZerodhaShareByeAndSellTest">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhaShareByeAndSellTest@18d87d80]" started-at="2022-06-19T16:15:34 IST" name="openchrome" finished-at="2022-06-19T16:15:48 IST" duration-ms="13129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="LogIn()[pri:0, instance:Test.ZerodhaShareByeAndSellTest@18d87d80]" started-at="2022-06-19T16:15:48 IST" name="LogIn" finished-at="2022-06-19T16:15:57 IST" duration-ms="9337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+      </class> <!-- Test.ZerodhaShareByeAndSellTest -->
+      <class name="Test.ZerodhGraphShowTest">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhGraphShowTest@51e69659]" started-at="2022-06-19T16:15:57 IST" name="openchrome" finished-at="2022-06-19T16:16:09 IST" duration-ms="12321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="SearchShare()[pri:0, instance:Test.ZerodhGraphShowTest@51e69659]" started-at="2022-06-19T16:16:09 IST" name="SearchShare" finished-at="2022-06-19T16:16:19 IST" duration-ms="10029" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class="tradingsymbol"])[1]' (tried for 6 second(s) with 50 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class="tradingsymbol"])[1]' (tried for 6 second(s) with 50 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:263)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+at POJO.WaitMeThode.FluentWait(WaitMeThode.java:18)
+at POM.ZerodhGraphShow.MovetoShareAndClickonGraph(ZerodhGraphShow.java:31)
+at Test.ZerodhGraphShowTest.SearchShare(ZerodhGraphShowTest.java:51)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class="tradingsymbol"])[1]"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'SACHIN', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [971b057e7fc74c9350302e9aa27674f3, findElement {using=xpath, value=(//span[@class="tradingsymbol"])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65254/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 971b057e7fc74c9350302e9aa27674f3
+at jdk.internal.reflect.GeneratedConstructorAccessor33.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:566)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:384)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:376)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy20.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+... 31 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchShare -->
+      </class> <!-- Test.ZerodhGraphShowTest -->
+      <class name="Test.ZerodhaSignUpPageTest">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhaSignUpPageTest@47e2e487]" started-at="2022-06-19T16:16:19 IST" name="openchrome" finished-at="2022-06-19T16:16:32 IST" duration-ms="13126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="ClickOnSignUpandFocusSignUp()[pri:0, instance:Test.ZerodhaSignUpPageTest@47e2e487]" started-at="2022-06-19T16:16:32 IST" name="ClickOnSignUpandFocusSignUp" finished-at="2022-06-19T16:17:07 IST" duration-ms="34113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignUpandFocusSignUp -->
+      </class> <!-- Test.ZerodhaSignUpPageTest -->
+      <class name="Test.ZerodhForgotPasswordTest">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Test.ZerodhForgotPasswordTest@26e356f0]" started-at="2022-06-19T16:18:05 IST" name="openchrome" finished-at="2022-06-19T16:18:16 IST" duration-ms="11133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="ClikOnForgot()[pri:0, instance:Test.ZerodhForgotPasswordTest@26e356f0]" started-at="2022-06-19T16:18:16 IST" name="ClikOnForgot" finished-at="2022-06-19T16:18:32 IST" duration-ms="15837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClikOnForgot -->
+      </class> <!-- Test.ZerodhForgotPasswordTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Windose8.1 -->
+</testng-results>
